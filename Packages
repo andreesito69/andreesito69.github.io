@@ -1,10 +1,10 @@
 Package: com.andreesito69.Respring-App
-Version: 3.0
+Version: 4.1.1
 Architecture: iphoneos-arm
 Maintainer: andreesito69 <andres666chat@gmail.com>
 Filename: ./debs/com.andreesito69.Respring-App.deb
-Size: 137488
-MD5sum: e695ab7ad60e0622374ee03341b24af2
+Size: 176984
+MD5sum: 54d93110c4f716bd1e056bf562bd3ea7
 Section: Applications
 Description: An App For Respring Your Device
 Author: andreesito69 <andres666chat@gmail.com>
