@@ -10,17 +10,5 @@ Description: An App For Respring Your Device
 Author: andreesito69 <andres666chat@gmail.com>
 Name: Respring App (iOS 7-10)
 
-Package: com.andreesito69.Pack1
-Name: Pack 1 (iOS 10) 
-Version: 0.1
-Section: Pack Of Tweaks
-Architecture: iphoneos-arm
-Depends: com.julioverne.ext3nder, org.coolstar.stash933, com.julioverne.extendlife 
-Description: Test Of Pack Of Tweaks
-Author: andreesito69
-Sponsor: andreesito69
-Maintainer: andreesito69 <andres666chat@gmail.com>
-
-Size: 654
-MD5sum: caef4af8Cca0e6141d0c5d852397f605
-Filename: ./debs/com.andreesito69.Pack1.deb
+Package: com.andreesito69.Pack1Name: Pack 1 (iOS 10) Version: 0.1Section: Pack Of TweaksArchitecture: iphoneos-armDepends: com.julioverne.ext3nder, org.coolstar.stash933, com.julioverne.extendlife Description: Test Of Pack Of TweaksAuthor: andreesito69Sponsor: andreesito69Maintainer: andreesito69 <andres666chat@gmail.com>
+Size: 654MD5sum: caef4af8Cca0e6141d0c5d852397f605Filename: ./debs/com.andreesito69.Pack1.deb
