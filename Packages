@@ -15,7 +15,7 @@ Name: Pack 1 (iOS 10)
 Version: 0.1
 Section: Pack Of Tweaks
 Architecture: iphoneos-arm
-Depends: com.julioverne.ext3nder, org.coolstar.stash933, com.julioverne.extendlife 
+Depends: com.julioverne.ext3nder, org.coolstar.stash933, com.julioverne.extendlife, anemone
 Description: Test Of Pack Of Tweaks
 Author: andreesito69
 Sponsor: andreesito69
