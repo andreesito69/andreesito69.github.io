@@ -15,12 +15,12 @@ Name: Pack 1 (iOS 10)
 Version: 0.1
 Section: Pack Of Tweaks
 Architecture: iphoneos-arm
-Depends: com.julioverne.ext3nder, org.coolstar.stash933, com.julioverne.extendlife, anemone
+Depends: com.julioverne.ext3nder, org.coolstar.stash933, com.julioverne.extendlife
 Description: Test Of Pack Of Tweaks
 Author: andreesito69
 Sponsor: andreesito69
 Maintainer: andreesito69 <andres666chat@gmail.com>
 
 Filename: ./debs/com.andreesito69.Pack1.deb
-MD5sum: 36227157e41a57b29253a4fd619ae129
-Size: 32314
+MD5sum: 06085824a7d7dbbd2024bbd76366e1c0
+Size: 178176
